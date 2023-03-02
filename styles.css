@@ -1,0 +1,45 @@
+#background {
+    background-color: #191825;
+    text-align: center;
+    font-size: 3rem;
+    
+}
+
+.titles {
+    margin-top: 3%;
+    color: #BE6DB7;
+    font-family: 'Tilt Warp', cursive;    
+}
+
+.social-media {
+    margin: 1.4%;
+    padding: 0,5%;
+    font-size: 1.2rem;
+    font-family: 'Tilt Neon', cursive;
+    
+}
+
+.pronouns {
+    color:#adadad;
+    font-size: 0.8rem;
+}
+
+.code-icon {
+    color:white;
+    margin-left: 1%;
+    font-size: 2rem;
+    height: 10%;
+}
+
+#main-bio {
+    margin-top: 1%;
+    font-size: 1rem;
+    color:white;
+    text-align: center;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.cat {
+    width: 140px;
+}
+
